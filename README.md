@@ -40,8 +40,8 @@ A simple web application built using **HTML, CSS, and JavaScript** that calculat
 1. User enters **weight (kg)** and **height (m)**.
 2. JavaScript calculates BMI using:
    
-## Live Demo
-https://69109390824cacd729c9c649--nimble-granita-a0b21f.netlify.app/
+## 🚀 Live Demo
+Check it out here   https://69109390824cacd729c9c649--nimble-granita-a0b21f.netlify.app/
 
 ## 🎯 Usage Instructions
 
