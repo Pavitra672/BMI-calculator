@@ -1,8 +1,8 @@
 # BMI Calculator
 
-![BMI Calculator](bmi.jpg)
-
 A simple web application built using **HTML, CSS, and JavaScript** that calculates the **Body Mass Index (BMI)** based on user-provided **weight** (in kg) and **height** (in meters). This project helps users understand whether their weight is underweight, normal, overweight, or obese.
+
+![BMI Calculator](bmi.jpg)
 
 ---
 
@@ -24,4 +24,28 @@ A simple web application built using **HTML, CSS, and JavaScript** that calculat
 ---
 
 ## 📂 Project Structure
+
+/BMI‑calculator
+│  index.html
+│  style.css
+│  javascript.js
+│  bmi.jpg
+└─ …
+
+
+---
+
+## 📊 How It Works
+
+1. User enters **weight (kg)** and **height (m)**.
+2. JavaScript calculates BMI using:
+
+## 🎯 Usage Instructions
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Pavitra672/BMI-calculator.git
+
+
 
